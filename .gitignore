@@ -5,6 +5,6 @@ git remote add origin git@github.com:JyrnasPluutus/pygame_illusion.gidea/**/work
 .idea/**/shelf
 
 # Vim
-tag
+tags
 
 venv/
