@@ -1,0 +1,10 @@
+git remote add origin git@github.com:JyrnasPluutus/pygame_illusion.gidea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Vim
+tag
+
+venv/
