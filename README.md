@@ -12,3 +12,7 @@ Highschool code can be seen under `old` branch.
 
 Install dependencies `pip install -r requirements.txt`
 Run script `python main.py`
+
+You can add more or remove flickering purple circles by using the up and down arrows
+while also being able to increase/decrease the speed of the flickering.
+To exit the program hit esc
